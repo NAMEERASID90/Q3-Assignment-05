@@ -1,5 +1,6 @@
 import streamlit as st
 from cryptography.fernet import Fernet
+
 import hashlib
 
 # ---------- GLOBALS ----------
